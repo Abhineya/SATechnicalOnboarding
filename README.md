@@ -9,7 +9,7 @@ As you are navigating the technical onboarding, please reference the [Technical 
 ## Resources for Completing the Technical Onboarding
 [Technical Onboarding Instructions](https://github.com/microsoft/SATechnicalOnboarding/blob/main/technical-onboarding-instructions.md)
 
-[Technical Onboarding Troubleshooting Guide](https://github.com/microsoft/SATechnicalOnboarding/blob/main/troubleshooting-guide.md)
+[Technical Onboarding Troubleshooting Guide](      )
 
 [Manage repository changes by using pull requests on GitHub](https://docs.microsoft.com/en-us/learn/modules/manage-changes-pull-requests-github/)
 
